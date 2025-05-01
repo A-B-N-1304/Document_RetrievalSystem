@@ -1,4 +1,3 @@
-# 21BCE3885_ML
 # Document Retrieval System
 
 ## Overview
